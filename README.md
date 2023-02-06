@@ -1,3 +1,15 @@
+<h1>Wordle Clone Game</h1>
+
+<h2>A wordle game created using React.</h2>
+
+<p>This game was created using React. It is a beginner project that shows and helps you to understand how to create a wordle clone. I created this following the tutorial of PedroTech.</p>
+
+### Screenshots
+
+<img src="/screenshots/screenshot.png" width="400">
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
